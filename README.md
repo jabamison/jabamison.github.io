@@ -1,3 +1,3 @@
 # jabamison.github.io
-#Chicken Jockey
+Chicken Jockey
 
