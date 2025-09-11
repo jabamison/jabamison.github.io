@@ -1,4 +1,2 @@
 # jabamison.github.io
-Chicken Jockey
-
-hi
+hi there
